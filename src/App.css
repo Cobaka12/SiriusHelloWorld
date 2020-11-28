@@ -1,0 +1,29 @@
+
+.App-header {
+  font-size: calc(40px + 2vmin);
+  
+  display: flex;
+  position: relative;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+  
+  
+  flex-wrap: wrap;
+  
+  flex-direction: row-reverse;
+  
+  padding: 50px;
+    
+}
+
+
+
+  
+    
+
+
+
+
+
+
